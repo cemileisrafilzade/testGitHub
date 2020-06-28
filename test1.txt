@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 hello 2
+=======
+hello. I am Kanan.
+>>>>>>> 6319eba46d14d8a1b85892bbef427ca7f6a48021
