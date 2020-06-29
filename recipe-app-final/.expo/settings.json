@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "87-rkz",
+  "hostType": "tunnel",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}
