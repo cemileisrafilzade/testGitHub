@@ -33,7 +33,7 @@ borderWidth:4,
 paddingHorizontal:20,
 paddingVertical:15,
 maxWidth:'95%',
-minWidth:'85%'
+minWidth:'85%',
 
 },
 img:{
